@@ -16,6 +16,18 @@
 
 ---
 
+### 🔥 Inat: Proving Everyone Wrong
+
+**Inat** (инат) is a Serbian word for defiant, stubborn determination: doing something *because* you were told you couldn't.
+
+* Told it's too big? **We build it anyway.**
+* Told it's not our field? **We enter it anyway.**
+* Told it won't reach production? **We ship it and run it.**
+
+Inat is the fuel behind every moonshot in this House. We don't argue with doubters, we let the work answer them.
+
+---
+
 ### 🚀 What We Run
 
 | Domain | What we do |
